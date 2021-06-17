@@ -1,0 +1,206 @@
+.address {
+  color: var(--white);
+  height: 28px;
+  left: 198px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 170px;
+  white-space: nowrap;
+}
+.biarrow-right-short {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  margin-left: 193px;
+  margin-top: 139.0px;
+  mix-blend-mode: normal;
+  padding: 4.0px 4.0px;
+  width: 16px;
+}
+.ellipse-10 {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 16px;
+  margin-left: 16px;
+  mix-blend-mode: normal;
+  width: 16px;
+}
+.ellipse-100 {
+  background-color: var(--red);
+  border-radius: 8px;
+  height: 16px;
+  margin-left: 16px;
+  mix-blend-mode: normal;
+  width: 16px;
+}
+.ellipse-101 {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 16px;
+  mix-blend-mode: normal;
+  width: 16px;
+}
+.frame-1568 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 85px;
+  min-height: 1648px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 896px;
+  width: 1281px;
+}
+.frame-1576 {
+  align-items: flex-end;
+  display: flex;
+  height: 2608px;
+  left: 0;
+  min-width: 1450px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.frame-1662 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 2993px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 1450px;
+}
+.group-129 {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  left: 653px;
+  min-width: 144px;
+  position: absolute;
+  top: 624px;
+}
+.group-182 {
+  align-items: flex-start;
+  display: flex;
+  height: 469px;
+  left: 0;
+  min-width: 1456px;
+  position: absolute;
+  top: 187px;
+}
+.group-89 {
+  align-items: center;
+  display: flex;
+  height: 2627px;
+  justify-content: flex-end;
+  left: 85px;
+  min-width: 1280px;
+  opacity: 0.04;
+  position: absolute;
+  top: 0;
+}
+.line {
+  height: 2627px;
+  margin-left: 319px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.line-4 {
+  height: 2627px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.line-6 {
+  height: 2627px;
+  margin-left: 109px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.line-8 {
+  height: 2627px;
+  margin-left: 318px;
+  mix-blend-mode: normal;
+  width: 1px;
+}
+.overlap-group {
+  height: 2608px;
+  position: relative;
+  width: 1450px;
+}
+.overlap-group1 {
+  height: 2627px;
+  margin-bottom: -19px;
+  position: relative;
+  width: 1456px;
+}
+.overlap-group2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 469px;
+  position: relative;
+  width: 1450px;
+}
+.overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 8px;
+  display: flex;
+  min-width: 16px;
+}
+.rectangle-81 {
+  background-color: var(--black);
+  height: 469px;
+  left: 0;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 1450px;
+}
+.text-1 {
+  height: 112px;
+  left: 198px;
+  letter-spacing: 0;
+  line-height: 56px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 200px;
+  width: 777px;
+}
+.text-2 {
+  left: 198px;
+  letter-spacing: 0;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 328px;
+  width: 469px;
+}
+.text-30 {
+  color: var(--black);
+  left: 198px;
+  line-height: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 696px;
+  width: 1057px;
+}
+.title {
+  color: var(--black);
+  font-weight: 800;
+  height: 32px;
+  left: 517px;
+  line-height: 48px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 115px;
+  white-space: nowrap;
+  width: 418px;
+}
+.vector {
+  height: 8px;
+  mix-blend-mode: normal;
+  width: 8px;
+}

@@ -1,0 +1,10 @@
+.frame-1640 {
+  align-items: flex-start;
+  display: flex;
+  height: 512px;
+  min-width: 1281px;
+  position: relative;
+}
+.frame-1640.frame-164 {
+  margin-top: 24px;
+}

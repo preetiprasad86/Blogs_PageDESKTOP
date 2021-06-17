@@ -1,0 +1,21 @@
+.frame-1587 {
+  align-items: center;
+  display: flex;
+  margin-top: 8px;
+  min-width: 104px;
+}
+.text-4 {
+  color: var(--red);
+  font-weight: 600;
+  height: 28px;
+  line-height: 28px;
+  min-height: 28px;
+  min-width: 70px;
+  mix-blend-mode: normal;
+  white-space: nowrap;
+}
+.vector-1 {
+  height: 16px;
+  margin-left: 12px;
+  width: 16px;
+}
